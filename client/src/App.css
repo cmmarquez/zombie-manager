@@ -1,0 +1,36 @@
+#AppBarz {
+    background-color: #222222;
+}
+
+#Typographyz {
+    font-weight: 700;
+    padding-left: 10px;
+}
+
+#Quarantinez {
+    box-shadow: none;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 100px;
+}
+
+#TableHeadz {
+}
+
+.TableCellz {
+    color: #222222 !important;
+    font-size: 1.24rem !important;
+    font-weight: 700 !important;
+}
+
+#Zombiez {
+    box-shadow: none;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 50px;
+}
+
+#Card-Typographyz {
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
