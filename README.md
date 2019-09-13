@@ -15,7 +15,7 @@ $ cd client
 
 and run the following command:
 ```
-recommended
+*recommended*
 $ yarn
 ```
 or
@@ -27,10 +27,7 @@ npm install
 
 *To run this application, you must have MongoDB.*
 
-To run the application, run the following command:
-```
-$ cd ..
-```
+In the root of the project, run the following command:.
 ```
 $ npm run dev
 ```
