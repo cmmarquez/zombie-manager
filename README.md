@@ -1,6 +1,6 @@
 # zombie-manager
 
-A simple full-stack application using MongoDB, Express.js React.js and Node.js.
+A simple full-stack application using MongoDB, Express.js, React.js and Node.js.
 
 
 ### Scenario:
