@@ -34,7 +34,7 @@ npm install
 
 ### Running the Application
 
-*To run this application, you must have MongoDB.*
+*To run this application, you must have MongoDB running.*
 
 In the root of the project, run the following command:.
 ```
